@@ -1,0 +1,11 @@
+# Hemmeligheter og lokal tilstand
+luftvarsel.env
+luftvarsel_state.json
+*.tmp
+*.log
+
+# Python / IDE
+__pycache__/
+.venv/
+.idea/
+main.py
